@@ -1,0 +1,6 @@
+{
+  "name": "WorkGuardAi",
+  "description": "Construction Site Management System with role-based dashboards and real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
